@@ -51,3 +51,6 @@ Image sequence Output
 ### Contribution
 Please feel free to contribute to this project in code by submit a pull request and schedule a chat for us to make sure the PR is of high quality.
 If you are interested in supporting the project in other ways, please feel free to reach out to me via info@prometeo.io
+---
+### Licensing
+This project is under MIT License
