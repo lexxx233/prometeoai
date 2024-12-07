@@ -1,4 +1,5 @@
-# Manifesto of Prometeo Project - Private Personal AI Companion
+# Manifesto of Prometeo Project 
+A Private Personal AI Companion
 
 ## Summary of Idea
 This project seeks to implement The Operating System for Personal AI Companion that run locally on personal computers. 
