@@ -4,6 +4,7 @@
 This project seeks to implement The Operating System for Personal AI Companion that run locally on personal computers. 
 This agent will utilize the most advanced publicly available models for Reasoning, Multimodal Inputs and Outputs
 
+---
 ### Definitions
 
 #### Operating System for AI Companion
@@ -46,7 +47,7 @@ Audio Output
 Image output
 Image sequence Output
 
-
+---
 ### Contribution
 Please feel free to contribute to this project in code by submit a pull request and schedule a chat for us to make sure the PR is of high quality.
 If you are interested in supporting the project in other ways, please feel free to reach out to me via info@prometeo.io
